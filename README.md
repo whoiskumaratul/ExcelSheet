@@ -54,7 +54,7 @@
 
 <br><h2>💥Requirements💥</h2>
 <br>
-<br>$ sudo pip install requirements.txt<br>
+<br>$ sudo pip install -r requirements.txt<br>
 <br>
 <br>
 
